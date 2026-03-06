@@ -1,0 +1,13 @@
+brewbuddy
+ ├─ app
+ │  └─ src
+ │     └─ main
+ │        ├─ java
+ │        │   └─ com
+ │        │      └─ brewbuddy
+ │        │          └─ MainActivity.kt
+ │        └─ res
+ │            └─ values
+ │                └─ strings.xml
+ ├─ build.gradle
+ └─ settings.gradle
